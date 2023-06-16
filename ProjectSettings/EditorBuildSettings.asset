@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/corridor-2.unity
+    guid: 12c6a8e56d4f9cd438ae90654bd2c925
+  - enabled: 1
+    path: Assets/Scenes/dining-room-i-use.unity
+    guid: 539726011fce3594ab232febafd47ff0
+  - enabled: 1
+    path: Assets/Scenes/living_room_1.unity
+    guid: 697709bf1233d6c4fb87dac9d3811640
+  - enabled: 1
+    path: Assets/Scenes/hospital.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/corridor.unity
+    guid: b18cd56e322c3cb418245ff4366a9ba5
+  - enabled: 1
+    path: Assets/Scenes/living-room-2.unity
+    guid: 512844c496613f84a8632ffe38b3b369
+  - enabled: 1
+    path: Assets/Scenes/living-room-3.unity
+    guid: 99f24aecd60e976439cac1520ebfc4d8
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ed72be55522c8448bae8b0d66fa21adf,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: ad4050bc0deda4e238354e959df0f1f4,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: cde58978e940ba1418ca396f91365af5,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: f4f50c8f8f3454c90a388877cf1a2c81,
+      type: 2}
